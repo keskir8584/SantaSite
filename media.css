@@ -1,0 +1,75 @@
+@charset "utf-8";
+body img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+.nav.nav-pills {
+	display: block;
+	margin-left: 650px;
+	margin-right: 650px;
+	color: #000000;
+}
+.nav.nav-pills .presentation a {
+	color: #FFFFFF;
+}
+.nav.nav-pills li a {
+	color: #FFFFFF;
+}
+.row .col-sm-8 p {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: normal;
+	font-size: 14pt;
+}
+.row .col-sm-4 p {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14pt;
+}
+body h1 {
+	color: #FFFFFF;
+	font-family: mountains-of-christmas;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+}
+.row .col-lg-6 h3 {
+	color: #3F7421;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 30px;
+	text-align: center;
+}
+.row .col-lg-6 h2 {
+	color: #FF0004;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 30px;
+	text-align: center;
+}
+.row .col-lg-6 {
+	text-align: left;
+}
+.row .col-lg-6 h4 {
+	color: #FF0004;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14pt;
+	text-align: center;
+}
+.row .col-lg-6 h5 {
+	color: #3F7421;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14pt;
+	text-align: center;
+}
+.item.active .carousel-caption h3 {
+	color: #FFFFFF;
+	font-family: mountains-of-christmas;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30pt;
+}
+.row .col-sm-8 {
+	color: #FFFFFF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: normal;
+	font-size: 14pt;
+}
